@@ -1,6 +1,9 @@
 /**
 * I Am Not Responsible For Any Act Resultant
 * For Its Use
+Made by Ali-Berro 18 April 2020
+Under the MIT license, i.e. anybody can edit and redistribute this code
+but if you could add a reference it would be KO.ol too :)
 **/
 #include <iostream>
 #include <windows.h>
