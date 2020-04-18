@@ -9,6 +9,6 @@ Not your typical KeyLogger, an advanced key logger that can save every key press
 
 * Creates a mutex so that it can only run Once!!
 
-* The best of the best is kept for last, it loads a function from the ntdll.dll to set this process to being CRITICAL, which means you can't kill it, and this function isn't detectable by many Anti-Virus software.
+* The best of the best is kept for last, it loads a function from the ntdll.dll to set this process to being CRITICAL, which means you can't kill it, or at least if you try to kill it, it will result in a BSOD (Blue screen of death).
 
 Use it under your own RISK!
